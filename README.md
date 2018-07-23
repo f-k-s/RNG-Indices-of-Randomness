@@ -1,5 +1,4 @@
 # RNG-Indices-of-Randomness
---- view as raw for better formatting ---
 
 Implementation of various indices of randomness as measures of RandomNumberGeneration performance; a task assessing executive functioning.
 
