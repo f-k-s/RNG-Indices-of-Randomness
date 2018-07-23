@@ -1,10 +1,12 @@
 # RNG-Indices-of-Randomness
+--- view as raw for better formatting ---
+
 Implementation of various indices of randomness as measures of RandomNumberGeneration performance; a task assessing executive functioning.
 
 Code has not been externally reviewed; not warranty!
 
 
-REFERENCES: ===============================================================
+## REFERENCES:
 RNG indices were adapted from:
 
   Towse, J. N., & Neil, D. (1998). Analyzing human random generation 
@@ -25,7 +27,7 @@ RNG indices were adapted from:
   Abbreviated as DJS.03
 
 
-INDICES ====================================================================
+## INDICES
 
   MISS        Missings. MISS is a structure with fields:
               -.i: Indices of values in the response sequence that are
